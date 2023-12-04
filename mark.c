@@ -2,9 +2,10 @@
 #include<conio.h>
 void main()
 {
-    int i,guj[3],maths[3],acc[3],eng[3],state[3],total=0;
+    int i,guj[5],maths[5],acc[5],eng[5],state[5],total=0;
     float per;
     char gread;
+    
     
     for( i=0;i<=3;i++)
     {
